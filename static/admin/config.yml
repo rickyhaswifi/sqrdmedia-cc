@@ -1,5 +1,5 @@
 backend:
-  name: sqrdmedia-cc
+  name: github
   repo: rickyhaswifi/sqrdmedia-cc
 
 publish_mode: editorial_workflow
