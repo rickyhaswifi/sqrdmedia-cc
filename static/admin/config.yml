@@ -1,6 +1,6 @@
 backend:
-  name: git-gateway
-  branch: master
+  name: sqrdmedia-cc
+  repo: rickyhaswifi/sqrdmedia-cc
 
 publish_mode: editorial_workflow
 media_folder: static/img
