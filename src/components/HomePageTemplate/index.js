@@ -8,6 +8,7 @@ const HomePageTemplate = ({
   title,
   heading,
   description,
+  subhead,
   offerings,
   meta_title,
   meta_description,
@@ -27,6 +28,9 @@ const HomePageTemplate = ({
                 <h1 className='title'>
                   {title}
                 </h1>
+                <h2 className='title'>
+                  {subhead}
+                </h2>
               </div>
             </div>
           </div>
@@ -63,6 +67,7 @@ HomePageTemplate.propTypes = {
   meta_title: PropTypes.string,
   meta_description: PropTypes.string,
   heading: PropTypes.string,
+  subhead: PropTypes.string,
   description: PropTypes.string,
   offerings: PropTypes.shape({
     blurbs: PropTypes.array,
