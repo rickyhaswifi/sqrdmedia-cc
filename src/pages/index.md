@@ -5,7 +5,7 @@ heading: Lorem ipsum dolor sit amet
 description: >-
   Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,
   adipisci velit...
-subHead: Hey it works!
+subhead: HEEEE
 offerings:
   blurbs:
     - image: /img/coffee.png
